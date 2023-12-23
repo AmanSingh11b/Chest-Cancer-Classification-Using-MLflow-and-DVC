@@ -1,5 +1,7 @@
 tensorflow==2.12.0
 pandas
+ensure
+python-box
 gdown
 dvc
 mlflow==2.2.2
